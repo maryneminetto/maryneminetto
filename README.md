@@ -1,11 +1,13 @@
 ![alt-text](https://avatars.githubusercontent.com/u/74258799?s=460&u=a418e82f9c897deedfcb6979bcf99dcecc887dd0&v=4)
+
+
 Hi there! :wave:
 
 My name is Maryne, I am an aspiring web developer :computer:
 
 ## Table of content
-- [About me](#aboutme)
-- [Technology used](#technologyused)
+- [About me](#about-me)
+- [Technology used](#technology-used)
 
 ---
 
